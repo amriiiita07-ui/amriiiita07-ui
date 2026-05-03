@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Amrita%20Singh%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=I%20don't%20just%20Analyze%20data,%20I%20find%20the%20stories%20hiding%20in%20the%20noise.&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Amrita%20Singh%20&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=I%20don't%20just%20Analyze%20data,%20I%20find%20the%20stories%20hiding%20in%20the%20noise.&descAlignY=58&descSize=18&descColor=a78bfa" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Business+Analyst;Systems+Thinker+%7C+Researcher;Turning+Noise+into+Narratives+📊;Where+Numbers+Meet+Strategy+🧠)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Business+Analyst;Systems+Thinker+%7C+Researcher;Turning+Noise+into+Narratives;Where+Numbers+Meet+Strategy)](https://git.io/typing-svg)
 
 </div>
 
@@ -125,7 +125,7 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -163,10 +163,10 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 <div align="center">
 
-<h3><i><font face="Playfair Display" color="#22d3ee">🧩 "Without data, you're just another person with an opinion."</font></i></h3>
+<h3><i><font face="Playfair Display" color="#22d3ee">"Without data, you're just another person with an opinion."</font></i></h3>
 <p><font face="Georgia" color="#22d3ee">— W. Edwards Deming</font></p>
 
-<h3><i><font face="Playfair Display" color="#22d3ee">📐 "The goal is to turn data into information, and information into insight."</font></i></h3>
+<h3><i><font face="Playfair Display" color="#22d3ee">"The goal is to turn data into information, and information into insight."</font></i></h3>
 <p><font face="Georgia" color="#22d3ee">— Carly Fiorina</font></p>
 
 </div>
