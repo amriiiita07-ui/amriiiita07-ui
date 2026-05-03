@@ -14,23 +14,13 @@ jobs:
     name: generate-github-profile-3d-contrib
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: amriiiita07-ui
-        with:
-          MAX_REPOS: 10
-          SETTING_JSON: |
-            {
-              "githubUserName": "amriiiita07-ui",
-              "themeContext": [
-                {
-                  "themeName": "night_rainbow"
-                }
-              ]
-            }
+          SETTING_JSON: '{"githubUserName":"amriiiita07-ui","themeContext":[{"themeName":"night_rainbow"}]}'
 
       - name: Commit & Push
         run: |
