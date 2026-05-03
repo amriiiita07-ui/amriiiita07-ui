@@ -51,7 +51,7 @@ As a Computer Science student specializing in Data Science, I'm obsessed with on
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚙️ Systems & Tools
+### Systems & Tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -75,7 +75,7 @@ As a Computer Science student specializing in Data Science, I'm obsessed with on
 <td width="50%">
 
 ### The Brokerage Battle
-**Zerodha vs Groww — Who Owns India's Future Investor?**
+**Zerodha vs Groww: Who Owns India's Future Investor?**
 
 A deep-dive into India's fintech duopoly. Examining platform strategy, user acquisition cost, retention patterns, and whether the next-gen investor leans toward Zerodha's depth or Groww's simplicity.
 
@@ -87,7 +87,7 @@ A deep-dive into India's fintech duopoly. Examining platform strategy, user acqu
 ### The Churn Code
 **Decoding Why Customers Leave & How to Make Them Stay**
 
-Investigating the behavioural, psychological, and operational triggers behind rising customer churn rates across industries. Moving beyond surface metrics to find what actually makes customers walk — and what brings them back.
+Investigating the behavioural, psychological, and operational triggers behind rising customer churn rates across industries. Moving beyond surface metrics to find what actually makes customers walk and what brings them back.
 
 `#CustomerAnalytics` `#ChurnPrediction` `#BusinessStrategy` `#BehaviouralData`
 
