@@ -23,7 +23,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 > *"I don't just analyze data, I find the stories hiding in the noise."*
 
@@ -31,22 +31,22 @@ I am a **Data Analyst** and **Business Analyst** who believes that the most powe
 
 As a Computer Science student specializing in Data Science, I'm obsessed with one question: How can we use data to predict what happens next?
 
-- 🔍 **Systems Thinker** - I don't just spot data points; I map the whole ecosystem.
-- 📊 **Visual Storyteller** - I turn messy spreadsheets into dashboards that actually get used.
-- 🧹 **Data Wrangler** - I clean what others give up on and find gold where others see noise.
-- 🔬 **Independent Researcher** - Actively investigating two market phenomena (see below).
-- 💡 **Driven by** curiosity, precision, and the belief that good data should change decisions.
+-  **Systems Thinker** - I don't just spot data points; I map the whole ecosystem.
+-  **Visual Storyteller** - I turn messy spreadsheets into dashboards that actually get used.
+-  **Data Wrangler** - I clean what others give up on and find gold where others see noise.
+-  **Independent Researcher** - Actively investigating two market phenomena (see below).
+-  **Driven by** curiosity, precision, and the belief that good data should change decisions.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 📐 Analytics & Visualisation
+### Analytics & Visualisation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -58,7 +58,7 @@ As a Computer Science student specializing in Data Science, I'm obsessed with on
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🧪 Data Science
+### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
@@ -66,7 +66,7 @@ As a Computer Science student specializing in Data Science, I'm obsessed with on
 
 ---
 
-## 🔬 Active Research
+## Active Research
 
 > *I don't just analyse existing data — I go looking for questions no one is asking yet.*
 
@@ -74,7 +74,7 @@ As a Computer Science student specializing in Data Science, I'm obsessed with on
 <tr>
 <td width="50%">
 
-### ⚔️ The Brokerage Battle
+### The Brokerage Battle
 **Zerodha vs Groww — Who Owns India's Future Investor?**
 
 A deep-dive into India's fintech duopoly. Examining platform strategy, user acquisition cost, retention patterns, and whether the next-gen investor leans toward Zerodha's depth or Groww's simplicity.
@@ -84,7 +84,7 @@ A deep-dive into India's fintech duopoly. Examining platform strategy, user acqu
 </td>
 <td width="50%">
 
-### 📉 The Churn Code
+### The Churn Code
 **Decoding Why Customers Leave & How to Make Them Stay**
 
 Investigating the behavioural, psychological, and operational triggers behind rising customer churn rates across industries. Moving beyond surface metrics to find what actually makes customers walk — and what brings them back.
@@ -97,7 +97,7 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -115,7 +115,7 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -135,7 +135,7 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 ---
 
-## 🌅 3D Contribution Graph
+## 3D Contribution Graph
 
 <div align="center">
 
@@ -147,7 +147,7 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 ---
 
-## 🦾 Recent Activity
+## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [amriiiita07-ui/amriiiita07-ui](https://github.com/amriiiita07-ui/amriiiita07-ui)<br>
@@ -159,7 +159,7 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 ---
 
-## 💬 My Data Philosophy
+## My Data Philosophy
 
 <div align="center">
 
@@ -173,7 +173,7 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
