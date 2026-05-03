@@ -31,11 +31,11 @@ I am a **Data Analyst** and **Business Analyst** who believes that the most powe
 
 As a Computer Science student specializing in Data Science, I'm obsessed with one question: How can we use data to predict what happens next?
 
-- 🔍 **Systems Thinker** - I don't just spot data points; I map the whole ecosystem
-- 📊 **Visual Storyteller** - I turn messy spreadsheets into dashboards that actually get used
-- 🧹 **Data Wrangler** - I clean what others give up on and find gold where others see noise
-- 🔬 **Independent Researcher** - Actively investigating two market phenomena (see below)
-- 💡 **Driven by** curiosity, precision, and the belief that good data should change decisions
+- 🔍 **Systems Thinker** - I don't just spot data points; I map the whole ecosystem.
+- 📊 **Visual Storyteller** - I turn messy spreadsheets into dashboards that actually get used.
+- 🧹 **Data Wrangler** - I clean what others give up on and find gold where others see noise.
+- 🔬 **Independent Researcher** - Actively investigating two market phenomena (see below).
+- 💡 **Driven by** curiosity, precision, and the belief that good data should change decisions.
 
 ---
 
@@ -68,14 +68,14 @@ As a Computer Science student specializing in Data Science, I'm obsessed with on
 
 ## 🔬 Active Research
 
-> *I don't just analyse existing data; I go looking for questions no one is asking yet.*
+> *I don't just analyse existing data — I go looking for questions no one is asking yet.*
 
 <table>
 <tr>
 <td width="50%">
 
 ### ⚔️ The Brokerage Battle
-**Zerodha vs Groww: Who Owns India's Future Investor?**
+**Zerodha vs Groww — Who Owns India's Future Investor?**
 
 A deep-dive into India's fintech duopoly. Examining platform strategy, user acquisition cost, retention patterns, and whether the next-gen investor leans toward Zerodha's depth or Groww's simplicity.
 
@@ -87,7 +87,7 @@ A deep-dive into India's fintech duopoly. Examining platform strategy, user acqu
 ### 📉 The Churn Code
 **Decoding Why Customers Leave & How to Make Them Stay**
 
-Investigating the behavioural, psychological, and operational triggers behind rising customer churn rates across industries. Moving beyond surface metrics to find what actually makes customers walk and what brings them back.
+Investigating the behavioural, psychological, and operational triggers behind rising customer churn rates across industries. Moving beyond surface metrics to find what actually makes customers walk — and what brings them back.
 
 `#CustomerAnalytics` `#ChurnPrediction` `#BusinessStrategy` `#BehaviouralData`
 
@@ -149,9 +149,9 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 ## 🦾 Recent Activity
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 
 ---
 
