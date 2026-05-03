@@ -104,7 +104,7 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amriiiita07-ui&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+<img src="https://streak-stats.demolab.com?user=amriiiita07-ui&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=FC9A64&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff" />
 
 </div>
 
@@ -115,8 +115,6 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 </div>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amriiiita07-ui&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amriiiita07-ui&theme=tokyonight" />
 
 ## GitHub Trophies
 
