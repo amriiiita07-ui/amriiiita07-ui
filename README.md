@@ -153,11 +153,11 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [suryansh2846code/personality-recognition-ai](https://github.com/suryansh2846code/personality-recognition-ai)<br>
-2. ⭐ Starred [suryansh2846code/AI-STUDY-PLANNER](https://github.com/suryansh2846code/AI-STUDY-PLANNER)<br>
-3. ⭐ Starred [suryansh2846code/ALGO-MENTOR-PRO](https://github.com/suryansh2846code/ALGO-MENTOR-PRO)<br>
-4. ⭐ Starred [suryansh2846code/FINORA](https://github.com/suryansh2846code/FINORA)<br>
-5. ⭐ Starred [suryansh2846code/DiasasterScout](https://github.com/suryansh2846code/DiasasterScout)<br>
+1. ⭐ Starred [Taranjeet303/Veritas-AI](https://github.com/Taranjeet303/Veritas-AI)<br>
+2. ⭐ Starred [suryansh2846code/personality-recognition-ai](https://github.com/suryansh2846code/personality-recognition-ai)<br>
+3. ⭐ Starred [suryansh2846code/AI-STUDY-PLANNER](https://github.com/suryansh2846code/AI-STUDY-PLANNER)<br>
+4. ⭐ Starred [suryansh2846code/ALGO-MENTOR-PRO](https://github.com/suryansh2846code/ALGO-MENTOR-PRO)<br>
+5. ⭐ Starred [suryansh2846code/FINORA](https://github.com/suryansh2846code/FINORA)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
