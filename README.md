@@ -146,6 +146,8 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 ---
 
+<div align="left">
+  
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
