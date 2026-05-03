@@ -5,20 +5,19 @@ on:
     - cron: "*/30 * * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   update-readme:
     name: Update Recent Activity
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
 
       - name: Update GitHub Activity
-        uses: Readme-Workflows/recent-activity@v2.4.0
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          CONFIG_FILE: .github/recent-activity.config.yml
+          COMMIT_MSG: "📊 Update recent activity"
+          MAX_LINES: 5
+          README_FILE: "README.md"
