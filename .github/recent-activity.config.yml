@@ -1,0 +1,7 @@
+settings:
+  username: amriiiita07-ui
+  commit_name: github-actions
+  commit_email: github-actions@github.com
+  commit_msg: "📊 Update Recent Activity"
+  max_lines: 5
+  readme_file: ./README.md
