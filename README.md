@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Amrita%20Singh%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=I%20don't%20just%20read%20data%20—%20I%20interrogate%20it.&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Amrita%20Singh%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=I%20don't%20just%20Analyze%20data,%20I%20find%20the%20stories%20hiding%20in%20the%20noise.&descAlignY=58&descSize=18&descColor=a78bfa" />
 
 </div>
 
@@ -25,7 +25,7 @@
 
 ## 🧠 About Me
 
-> *"I don't see data — I see stories waiting to be told, patterns hiding in plain sight, and decisions waiting to be made."*
+> *"I don't just analyze data, I find the stories hiding in the noise."*
 
 I am a **Data Analyst** and **Business Analyst** who believes that the most powerful tool in any organization isn't its technology — it's its ability to **ask the right questions**. I sit at the intersection of data, strategy, and human behaviour — translating complexity into clarity that drives real decisions.
 
