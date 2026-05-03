@@ -25,14 +25,16 @@
 
 ## 🧠 About Me
 
-> *"I don't see data — I see stories waiting to be told, patterns hiding in plain sight, and decisions waiting to be made."*
+> *"I don't just analyze data, I find the stories hiding in the noise."*
 
-I am a **Data Analyst** and **Business Analyst** who believes that the most powerful tool in any organization isn't its technology — it's its ability to **ask the right questions**. I sit at the intersection of data, strategy, and human behaviour — translating complexity into clarity that drives real decisions.
+I am a **Data Analyst** and **Researcher** who believes that the most powerful tool in any organization isn't its just technology, it's its ability to **ask the right questions**. I sit at the intersection of data, strategy, and human behaviour; translating complexity into clarity that drives real decisions.
 
-- 🔍 **Systems Thinker** — I don't just spot data points; I map the whole ecosystem
-- 📊 **Visual Storyteller** — I turn messy spreadsheets into dashboards that actually get used
-- 🧹 **Data Wrangler** — I clean what others give up on and find gold where others see noise
-- 🔬 **Independent Researcher** — Actively investigating two market phenomena (see below)
+I'm obsessed with one question: How can we use data to predict what happens next?
+
+- 🔍 **Systems Thinker** - I don't just spot data points; I map the whole ecosystem
+- 📊 **Visual Storyteller** - I turn messy spreadsheets into dashboards that actually get used
+- 🧹 **Data Wrangler** - I clean what others give up on and find gold where others see noise
+- 🔬 **Independent Researcher** - Actively investigating two market phenomena (see below)
 - 💡 **Driven by** curiosity, precision, and the belief that good data should change decisions
 
 ---
@@ -66,7 +68,7 @@ I am a **Data Analyst** and **Business Analyst** who believes that the most powe
 
 ## 🔬 Active Research
 
-> *I don't just analyse existing data — I go looking for questions no one is asking yet.*
+> *I don't just analyse existing data; I go looking for questions no one is asking yet.*
 
 <table>
 <tr>
