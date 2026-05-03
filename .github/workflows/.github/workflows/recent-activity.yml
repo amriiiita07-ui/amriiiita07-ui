@@ -9,14 +9,13 @@ permissions:
   contents: write
 
 jobs:
-  update-readme:
-    name: Update Recent Activity
+  build:
     runs-on: ubuntu-latest
+    name: Update Profile README
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update GitHub Activity
-        uses: Readme-Workflows/recent-activity@v2.6.0
+      - uses: Readme-Workflows/recent-activity@v2.6.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
