@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Amrita%20Singh%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=I%20don't%20just%20read%20data%20—%20I%20interrogate%20it.&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Amrita%20Singh%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=I%20don't%20just%20Analyze%20data,%20I%20find%20the%20stories%20hiding%20in%20the%20noise.&descAlignY=58&descSize=18&descColor=a78bfa" />
 
 </div>
 
@@ -25,14 +25,16 @@
 
 ## 🧠 About Me
 
-> *"I don't see data — I see stories waiting to be told, patterns hiding in plain sight, and decisions waiting to be made."*
+> *"I don't just analyze data, I find the stories hiding in the noise."*
 
-I am a **Data Analyst** and **Business Analyst** who believes that the most powerful tool in any organization isn't its technology — it's its ability to **ask the right questions**. I sit at the intersection of data, strategy, and human behaviour — translating complexity into clarity that drives real decisions.
+I am a **Data Analyst** and **Business Analyst** who believes that the most powerful tool in any organization isn't its technology; it's its ability to **ask the right questions**. I sit at the intersection of data, strategy, and human behaviour: translating complexity into clarity that drives real decisions.
 
-- 🔍 **Systems Thinker** — I don't just spot data points; I map the whole ecosystem
-- 📊 **Visual Storyteller** — I turn messy spreadsheets into dashboards that actually get used
-- 🧹 **Data Wrangler** — I clean what others give up on and find gold where others see noise
-- 🔬 **Independent Researcher** — Actively investigating two market phenomena (see below)
+As a Computer Science student specializing in Data Science, I'm obsessed with one question: How can we use data to predict what happens next?
+
+- 🔍 **Systems Thinker** - I don't just spot data points; I map the whole ecosystem
+- 📊 **Visual Storyteller** - I turn messy spreadsheets into dashboards that actually get used
+- 🧹 **Data Wrangler** - I clean what others give up on and find gold where others see noise
+- 🔬 **Independent Researcher** - Actively investigating two market phenomena (see below)
 - 💡 **Driven by** curiosity, precision, and the belief that good data should change decisions
 
 ---
@@ -66,14 +68,14 @@ I am a **Data Analyst** and **Business Analyst** who believes that the most powe
 
 ## 🔬 Active Research
 
-> *I don't just analyse existing data — I go looking for questions no one is asking yet.*
+> *I don't just analyse existing data; I go looking for questions no one is asking yet.*
 
 <table>
 <tr>
 <td width="50%">
 
 ### ⚔️ The Brokerage Battle
-**Zerodha vs Groww — Who Owns India's Future Investor?**
+**Zerodha vs Groww: Who Owns India's Future Investor?**
 
 A deep-dive into India's fintech duopoly. Examining platform strategy, user acquisition cost, retention patterns, and whether the next-gen investor leans toward Zerodha's depth or Groww's simplicity.
 
@@ -85,7 +87,7 @@ A deep-dive into India's fintech duopoly. Examining platform strategy, user acqu
 ### 📉 The Churn Code
 **Decoding Why Customers Leave & How to Make Them Stay**
 
-Investigating the behavioural, psychological, and operational triggers behind rising customer churn rates across industries. Moving beyond surface metrics to find what actually makes customers walk — and what brings them back.
+Investigating the behavioural, psychological, and operational triggers behind rising customer churn rates across industries. Moving beyond surface metrics to find what actually makes customers walk and what brings them back.
 
 `#CustomerAnalytics` `#ChurnPrediction` `#BusinessStrategy` `#BehaviouralData`
 
