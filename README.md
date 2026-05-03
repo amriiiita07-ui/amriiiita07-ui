@@ -68,7 +68,7 @@ As a Computer Science student specializing in Data Science, I'm obsessed with on
 
 ## Active Research
 
-> *I don't just analyse existing data — I go looking for questions no one is asking yet.*
+> *I don't just analyse existing data, I go looking for questions no one is asking yet.*
 
 <table>
 <tr>
