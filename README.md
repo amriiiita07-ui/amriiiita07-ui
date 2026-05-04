@@ -34,7 +34,7 @@ As a Computer Science student specializing in Data Science, I'm obsessed with on
 -  **Systems Thinker** - I don't just spot data points; I map the whole ecosystem.
 -  **Visual Storyteller** - I turn messy spreadsheets into dashboards that actually get used.
 -  **Data Wrangler** - I clean what others give up on and find gold where others see noise.
--  **Independent Researcher** - Actively investigating two market phenomena (see below).
+-  **Independent Researcher** - Actively investigating two market phenomena (See Active Research Section).
 -  **Driven by** curiosity, precision, and the belief that good data should change decisions.
 
 ---
