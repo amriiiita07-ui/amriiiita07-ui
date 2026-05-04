@@ -101,21 +101,19 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 <div align="center">
 
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=amriiiita07-ui&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=FC9A64&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff" />
 
-</div>
-
-<div align="center">
+<br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amriiiita07-ui&theme=tokyonight" />
 
-</div>
+<br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amriiiita07-ui&theme=tokyonight" />
 
+</div>
+
+---
 ## GitHub Trophies
 
 <div align="center">
