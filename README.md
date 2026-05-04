@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Amrita%20Singh%20&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=I%20don't%20just%20Analyze%20data,%20I%20find%20the%20stories%20hiding%20in%20the%20noise.&descAlignY=58&descSize=18&descColor=a78bfa" />
 
-</div>
+</div>  
 
 <div align="center">
 
