@@ -147,6 +147,16 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 ---
 
 <div align="left">
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amriiiita07-ui/amriiiita07-ui/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amriiiita07-ui/amriiiita07-ui/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amriiiita07-ui/amriiiita07-ui/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
   
 ## Recent Activity
 
