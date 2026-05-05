@@ -101,7 +101,7 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=amriiiita07-ui&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=FC9A64&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff&cache_seconds=86400&date_format=j%20M%5B%20Y%5D" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=amriiiita07-ui&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=FC9A64&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff&cache_seconds=86400&date_format=j%20M%5B%20Y%5D" />
 
 <br><br>
 
