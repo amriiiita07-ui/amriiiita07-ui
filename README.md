@@ -91,7 +91,7 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 `#CustomerAnalytics` `#ChurnPrediction` `#BusinessStrategy` `#BehaviouralData`
 
-</td>
+</td>     
 </tr>
 </table>
 
