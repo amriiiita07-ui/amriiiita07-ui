@@ -162,11 +162,11 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [aditisb1212-lab/rocketride-server](https://github.com/aditisb1212-lab/rocketride-server)<br>
-2. ⭐ Starred [aditisb1212-lab/Memori](https://github.com/aditisb1212-lab/Memori)<br>
-3. ⭐ Starred [Taranjeet303/Veritas-AI](https://github.com/Taranjeet303/Veritas-AI)<br>
-4. ⭐ Starred [suryansh2846code/personality-recognition-ai](https://github.com/suryansh2846code/personality-recognition-ai)<br>
-5. ⭐ Starred [suryansh2846code/AI-STUDY-PLANNER](https://github.com/suryansh2846code/AI-STUDY-PLANNER)<br>
+1. 💪 Opened PR [#1](undefined) in [amriiiita07-ui/churn-dashboard-streamlit](https://github.com/amriiiita07-ui/churn-dashboard-streamlit)<br>
+2. 🔱 Forked [amriiiita07-ui/personality-recognition-ai](https://github.com/amriiiita07-ui/personality-recognition-ai) from [suryansh2846code/personality-recognition-ai](https://github.com/suryansh2846code/personality-recognition-ai)<br>
+3. ✔️ Closed issue [#454](https://github.com/jakevdp/PythonDataScienceHandbook/issues/454) in [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)<br>
+4. ❗️ Opened issue [#454](https://github.com/jakevdp/PythonDataScienceHandbook/issues/454) in [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)<br>
+5. ⭐ Starred [aditisb1212-lab/rocketride-server](https://github.com/aditisb1212-lab/rocketride-server)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
