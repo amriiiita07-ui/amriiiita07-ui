@@ -106,7 +106,7 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 <br><br>
 
-<img src="<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amriiiita07-ui&theme=github_dark&cache_seconds=3600" />" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amriiiita07-ui&theme=tokyonight&cache_seconds=3600" />
 
 <br>
 
