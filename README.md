@@ -149,7 +149,7 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 <div align="left">
 
-## Contribution Snake Game
+## Contribution Snake
 
 <div align="center">
   <picture>
