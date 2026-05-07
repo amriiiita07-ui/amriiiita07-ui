@@ -162,11 +162,11 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](undefined) in [amriiiita07-ui/FINORA](https://github.com/amriiiita07-ui/FINORA)<br>
-2. 💪 Opened PR [#1](undefined) in [suryansh2846code/FINORA](https://github.com/suryansh2846code/FINORA)<br>
-3. 🔱 Forked [amriiiita07-ui/FINORA](https://github.com/amriiiita07-ui/FINORA) from [suryansh2846code/FINORA](https://github.com/suryansh2846code/FINORA)<br>
-4. 💪 Opened PR [#1](undefined) in [amriiiita07-ui/churn-dashboard-streamlit](https://github.com/amriiiita07-ui/churn-dashboard-streamlit)<br>
-5. 🔱 Forked [amriiiita07-ui/personality-recognition-ai](https://github.com/amriiiita07-ui/personality-recognition-ai) from [suryansh2846code/personality-recognition-ai](https://github.com/suryansh2846code/personality-recognition-ai)<br>
+1. 💪 Opened PR [#2](undefined) in [Jyotiiii3003/Safe-route-ai](https://github.com/Jyotiiii3003/Safe-route-ai)<br>
+2. 🔱 Forked [amriiiita07-ui/Safe-route-ai](https://github.com/amriiiita07-ui/Safe-route-ai) from [Jyotiiii3003/Safe-route-ai](https://github.com/Jyotiiii3003/Safe-route-ai)<br>
+3. 💪 Opened PR [#1](undefined) in [amriiiita07-ui/FINORA](https://github.com/amriiiita07-ui/FINORA)<br>
+4. 💪 Opened PR [#1](undefined) in [suryansh2846code/FINORA](https://github.com/suryansh2846code/FINORA)<br>
+5. 🔱 Forked [amriiiita07-ui/FINORA](https://github.com/amriiiita07-ui/FINORA) from [suryansh2846code/FINORA](https://github.com/suryansh2846code/FINORA)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
