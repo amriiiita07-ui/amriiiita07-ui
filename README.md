@@ -162,11 +162,11 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](undefined) in [Jyotiiii3003/Safe-route-ai](https://github.com/Jyotiiii3003/Safe-route-ai)<br>
-2. 🔱 Forked [amriiiita07-ui/Safe-route-ai](https://github.com/amriiiita07-ui/Safe-route-ai) from [Jyotiiii3003/Safe-route-ai](https://github.com/Jyotiiii3003/Safe-route-ai)<br>
-3. 💪 Opened PR [#1](undefined) in [amriiiita07-ui/FINORA](https://github.com/amriiiita07-ui/FINORA)<br>
-4. 💪 Opened PR [#1](undefined) in [suryansh2846code/FINORA](https://github.com/suryansh2846code/FINORA)<br>
-5. 🔱 Forked [amriiiita07-ui/FINORA](https://github.com/amriiiita07-ui/FINORA) from [suryansh2846code/FINORA](https://github.com/suryansh2846code/FINORA)<br>
+1. 💬 Commented on [#1](https://github.com/suryansh2846code/AI-STUDY-PLANNER/pull/1#discussion_r3211936250) in [suryansh2846code/AI-STUDY-PLANNER](https://github.com/suryansh2846code/AI-STUDY-PLANNER)<br>
+2. 💬 Commented on [#1](https://github.com/suryansh2846code/AI-STUDY-PLANNER/pull/1#discussion_r3211932496) in [suryansh2846code/AI-STUDY-PLANNER](https://github.com/suryansh2846code/AI-STUDY-PLANNER)<br>
+3. 💬 Commented on [#1](https://github.com/suryansh2846code/AI-STUDY-PLANNER/pull/1#discussion_r3211922228) in [suryansh2846code/AI-STUDY-PLANNER](https://github.com/suryansh2846code/AI-STUDY-PLANNER)<br>
+4. ❌ Closed PR [#2](undefined) in [Jyotiiii3003/Safe-route-ai](https://github.com/Jyotiiii3003/Safe-route-ai)<br>
+5. 💪 Opened PR [#2](undefined) in [Jyotiiii3003/Safe-route-ai](https://github.com/Jyotiiii3003/Safe-route-ai)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
