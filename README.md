@@ -162,11 +162,11 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [amriiiita07-ui/LUMINARY](https://github.com/amriiiita07-ui/LUMINARY)<br>
-2. 💬 Commented on [#1](https://github.com/suryansh2846code/AI-STUDY-PLANNER/pull/1#discussion_r3211956871) in [suryansh2846code/AI-STUDY-PLANNER](https://github.com/suryansh2846code/AI-STUDY-PLANNER)<br>
-3. 💬 Commented on [#1](https://github.com/suryansh2846code/AI-STUDY-PLANNER/pull/1#discussion_r3211953893) in [suryansh2846code/AI-STUDY-PLANNER](https://github.com/suryansh2846code/AI-STUDY-PLANNER)<br>
-4. 💬 Commented on [#1](https://github.com/suryansh2846code/AI-STUDY-PLANNER/pull/1#discussion_r3211950334) in [suryansh2846code/AI-STUDY-PLANNER](https://github.com/suryansh2846code/AI-STUDY-PLANNER)<br>
-5. 💬 Commented on [#1](https://github.com/suryansh2846code/AI-STUDY-PLANNER/pull/1#discussion_r3211936250) in [suryansh2846code/AI-STUDY-PLANNER](https://github.com/suryansh2846code/AI-STUDY-PLANNER)<br>
+1. ⭐ Starred [Jyotiiii3003/IntelliNotee](https://github.com/Jyotiiii3003/IntelliNotee)<br>
+2. ⭐ Starred [amriiiita07-ui/LUMINARY](https://github.com/amriiiita07-ui/LUMINARY)<br>
+3. 💬 Commented on [#1](https://github.com/suryansh2846code/AI-STUDY-PLANNER/pull/1#discussion_r3211956871) in [suryansh2846code/AI-STUDY-PLANNER](https://github.com/suryansh2846code/AI-STUDY-PLANNER)<br>
+4. 💬 Commented on [#1](https://github.com/suryansh2846code/AI-STUDY-PLANNER/pull/1#discussion_r3211953893) in [suryansh2846code/AI-STUDY-PLANNER](https://github.com/suryansh2846code/AI-STUDY-PLANNER)<br>
+5. 💬 Commented on [#1](https://github.com/suryansh2846code/AI-STUDY-PLANNER/pull/1#discussion_r3211950334) in [suryansh2846code/AI-STUDY-PLANNER](https://github.com/suryansh2846code/AI-STUDY-PLANNER)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
