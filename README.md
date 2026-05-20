@@ -30,7 +30,7 @@
 
 I am a **Data Analyst** and **Business Analyst** who believes that the most powerful tool in any organization isn't its technology; it's its ability to **ask the right questions**. I sit at the intersection of data, strategy, and human behaviour: translating complexity into clarity that drives real decisions.
 
-As a Computer Science student specializing in Data Science, I'm obsessed with one question: How can we use data to predict what happens next?
+As a Computer Science student'29 specializing in Data Science, I'm obsessed with one question: How can we use data to predict what happens next?
 
 -  **Systems Thinker** - I don't just spot data points; I map the whole ecosystem.
 -  **Visual Storyteller** - I turn messy spreadsheets into dashboards that actually get used.
