@@ -165,8 +165,6 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 1. ⭐ Starred [amriiiita07-ui/Tech-Events-june-2026](https://github.com/amriiiita07-ui/Tech-Events-june-2026)<br>
 2. ⭐ Starred [Jyotiiii3003/IntelliNotee](https://github.com/Jyotiiii3003/IntelliNotee)<br>
 3. ⭐ Starred [amriiiita07-ui/LUMINARY](https://github.com/amriiiita07-ui/LUMINARY)<br>
-4. 💬 Commented on [#1](https://github.com/suryansh2846code/AI-STUDY-PLANNER/pull/1#discussion_r3211956871) in [suryansh2846code/AI-STUDY-PLANNER](https://github.com/suryansh2846code/AI-STUDY-PLANNER)<br>
-5. 💬 Commented on [#1](https://github.com/suryansh2846code/AI-STUDY-PLANNER/pull/1#discussion_r3211953893) in [suryansh2846code/AI-STUDY-PLANNER](https://github.com/suryansh2846code/AI-STUDY-PLANNER)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
