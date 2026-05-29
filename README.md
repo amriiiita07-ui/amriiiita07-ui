@@ -161,9 +161,10 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [amriiiita07-ui/Tech-Events-june-2026](https://github.com/amriiiita07-ui/Tech-Events-june-2026)<br>
-2. ⭐ Starred [Jyotiiii3003/IntelliNotee](https://github.com/Jyotiiii3003/IntelliNotee)<br>
-3. ⭐ Starred [amriiiita07-ui/LUMINARY](https://github.com/amriiiita07-ui/LUMINARY)<br>
+1. 🔱 Forked [amriiiita07-ui/github-readme-stats](https://github.com/amriiiita07-ui/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br>
+2. ⭐ Starred [amriiiita07-ui/Tech-Events-june-2026](https://github.com/amriiiita07-ui/Tech-Events-june-2026)<br>
+3. ⭐ Starred [Jyotiiii3003/IntelliNotee](https://github.com/Jyotiiii3003/IntelliNotee)<br>
+4. ⭐ Starred [amriiiita07-ui/LUMINARY](https://github.com/amriiiita07-ui/LUMINARY)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
