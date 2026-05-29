@@ -102,15 +102,15 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=amriiiita07-ui&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=FC9A64&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff&date_format=j%20M%5B%20Y%5D" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=amriiiita07-ui&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=FC9A64&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff&cache_seconds=86400&date_format=j%20M%5B%20Y%5D" />
 
 <br><br>
 
-<img src="https://github-readme-stats-amriiiita07-uis-projects.vercel.app/api?username=amriiiita07-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true" onerror="this.src='https://img.shields.io/badge/GitHub%20Stats-Loading...-a78bfa?style=for-the-badge'" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amriiiita07-ui&theme=tokyonight&cache_seconds=3600" />
 
-<br><br>
+<br>
 
-<img src="https://github-readme-stats-amriiiita07-uis-projects.vercel.app/api/top-langs/?username=amriiiita07-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amriiiita07-ui&theme=tokyonight&cache_seconds=3600" />
 
 </div>
 
@@ -120,7 +120,7 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=amriiiita07-ui&theme=nord&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=4&row=2" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=amriiiita07-ui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
