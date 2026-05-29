@@ -17,6 +17,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amrita%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amriiiita07/)
 [![Gmail](https://img.shields.io/badge/Gmail-amriiiita.07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amriiiita.07@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-amriiiita07-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/amriiiita07)
 [![GitHub](https://img.shields.io/badge/GitHub-amriiiita07--ui-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amriiiita07-ui)
 ![Profile Views](https://komarev.com/ghpvc/?username=amriiiita07-ui&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
@@ -32,11 +33,11 @@ I am a **Data Analyst** and **Business Analyst** who believes that the most powe
 
 As a Computer Science student'29 specializing in Data Science, I'm obsessed with one question: How can we use data to predict what happens next?
 
-- 🔭 **Systems Thinker** - I don't just spot data points; I map the whole ecosystem.
-- 🎨 **Visual Storyteller** - I turn messy spreadsheets into dashboards that actually get used.
-- 🧹 **Data Wrangler** - I clean what others give up on and find gold where others see noise.
-- 🔬 **Independent Researcher** - Actively investigating two market phenomena (See Active Research Section).
-- 💡 **Driven by** curiosity, precision, and the belief that good data should change decisions.
+- **Systems Thinker** - I don't just spot data points; I map the whole ecosystem.
+- **Visual Storyteller** - I turn messy spreadsheets into dashboards that actually get used.
+- **Data Wrangler** - I clean what others give up on and find gold where others see noise.
+- **Independent Researcher** - Actively investigating two market phenomena (See Active Research Section).
+- **Driven by** curiosity, precision, and the belief that good data should change decisions.
 
 ---
 
@@ -120,7 +121,7 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amriiiita07-ui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amriiiita07-ui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)
 
 </div>
 
@@ -189,6 +190,7 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 *I'm open to collaborations on data projects, research discussions, and business analytics opportunities.*
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amriiiita07/)
+[![Kaggle](https://img.shields.io/badge/Find%20me%20on-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/amriiiita07)
 [![Gmail](https://img.shields.io/badge/Drop%20a-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amriiiita.07@gmail.com)
 
 </div>
