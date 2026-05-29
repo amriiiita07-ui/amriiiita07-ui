@@ -121,11 +121,10 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amriiiita07-ui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amriiiita07-ui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
----
 
 ## Contribution Activity
 
