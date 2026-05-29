@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi,%20I'm%20Amrita%20Singh%20&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=I%20don't%20just%20Analyze%20data,%20I%20find%20the%20stories%20hiding%20in%20the%20noise.&descAlignY=58&descSize=18&descColor=a78bfa" />
 
-</div>  
+</div>
 
 
-<div align="center">   
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Business+Analyst;Systems+Thinker+%7C+Researcher;Turning+Noise+into+Narratives;Where+Numbers+Meet+Strategy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Business+Analyst;Systems+Thinker+%7C+Researcher;Turning+Noise+into+Narratives;Where+Numbers+Meet+Strategy)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,11 +32,11 @@ I am a **Data Analyst** and **Business Analyst** who believes that the most powe
 
 As a Computer Science student'29 specializing in Data Science, I'm obsessed with one question: How can we use data to predict what happens next?
 
--  **Systems Thinker** - I don't just spot data points; I map the whole ecosystem.
--  **Visual Storyteller** - I turn messy spreadsheets into dashboards that actually get used.
--  **Data Wrangler** - I clean what others give up on and find gold where others see noise.
--  **Independent Researcher** - Actively investigating two market phenomena (See Active Research Section).
--  **Driven by** curiosity, precision, and the belief that good data should change decisions.
+- 🔭 **Systems Thinker** - I don't just spot data points; I map the whole ecosystem.
+- 🎨 **Visual Storyteller** - I turn messy spreadsheets into dashboards that actually get used.
+- 🧹 **Data Wrangler** - I clean what others give up on and find gold where others see noise.
+- 🔬 **Independent Researcher** - Actively investigating two market phenomena (See Active Research Section).
+- 💡 **Driven by** curiosity, precision, and the belief that good data should change decisions.
 
 ---
 
@@ -92,7 +92,7 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 `#CustomerAnalytics` `#ChurnPrediction` `#BusinessStrategy` `#BehaviouralData`
 
-</td>     
+</td>
 </tr>
 </table>
 
@@ -102,24 +102,25 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=amriiiita07-ui&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=FC9A64&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff&cache_seconds=86400&date_format=j%20M%5B%20Y%5D" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amriiiita07-ui&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=FC9A64&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff&date_format=j%20M%5B%20Y%5D" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amriiiita07-ui&theme=tokyonight&cache_seconds=3600" />
+<img src="https://github-readme-stats.vercel.app/api?username=amriiiita07-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true" />
 
-<br>
+<br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amriiiita07-ui&theme=tokyonight&cache_seconds=3600" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amriiiita07-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" />
 
 </div>
 
 ---
+
 ## GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amriiiita07-ui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amriiiita07-ui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -141,13 +142,9 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 [![3D Contribution Graph](https://raw.githubusercontent.com/amriiiita07-ui/amriiiita07-ui/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/amriiiita07-ui)
 
-
-
 </div>
 
 ---
-
-<div align="left">
 
 ## Contribution Snake
 
@@ -158,7 +155,9 @@ Investigating the behavioural, psychological, and operational triggers behind ri
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amriiiita07-ui/amriiiita07-ui/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-  
+
+---
+
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
