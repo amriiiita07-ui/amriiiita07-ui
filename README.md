@@ -82,6 +82,7 @@ As a Computer Science student'29 specializing in Data Science, I'm obsessed with
 A deep-dive into India's fintech duopoly. Examining platform strategy, user acquisition cost, retention patterns, and whether the next-gen investor leans toward Zerodha's depth or Groww's simplicity.
 
 Research Paper Link : https://the-great-broker-war-zerodha-vs-gro.vercel.app/
+Research Paper Repo : https://github.com/amriiiita07-ui/The-Great-Broker-War-Zerodha-vs-Groww
 
 `#FinTech` `#InvestorBehaviour` `#MarketStrategy` `#IndiaFinance`
 
