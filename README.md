@@ -165,11 +165,11 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PRITAKANSHUADAK/IRIS--FLOWER-CLASSIFICATION-](https://github.com/PRITAKANSHUADAK/IRIS--FLOWER-CLASSIFICATION-)<br>
-2. ⭐ Starred [amriiiita07-ui/The-Great-Broker-War-Zerodha-vs-Groww](https://github.com/amriiiita07-ui/The-Great-Broker-War-Zerodha-vs-Groww)<br>
-3. 🔱 Forked [amriiiita07-ui/github-readme-stats](https://github.com/amriiiita07-ui/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br>
-4. ⭐ Starred [amriiiita07-ui/Tech-Events-june-2026](https://github.com/amriiiita07-ui/Tech-Events-june-2026)<br>
-5. ⭐ Starred [Jyotiiii3003/IntelliNotee](https://github.com/Jyotiiii3003/IntelliNotee)<br>
+1. ⭐ Starred [amriiiita07-ui/Claude-xyz](https://github.com/amriiiita07-ui/Claude-xyz)<br>
+2. ⭐ Starred [PRITAKANSHUADAK/IRIS--FLOWER-CLASSIFICATION-](https://github.com/PRITAKANSHUADAK/IRIS--FLOWER-CLASSIFICATION-)<br>
+3. ⭐ Starred [amriiiita07-ui/The-Great-Broker-War-Zerodha-vs-Groww](https://github.com/amriiiita07-ui/The-Great-Broker-War-Zerodha-vs-Groww)<br>
+4. 🔱 Forked [amriiiita07-ui/github-readme-stats](https://github.com/amriiiita07-ui/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br>
+5. ⭐ Starred [amriiiita07-ui/Tech-Events-june-2026](https://github.com/amriiiita07-ui/Tech-Events-june-2026)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
