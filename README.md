@@ -165,11 +165,11 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [amriiiita07-ui/Claude-xyz](https://github.com/amriiiita07-ui/Claude-xyz)<br>
-2. ⭐ Starred [PRITAKANSHUADAK/IRIS--FLOWER-CLASSIFICATION-](https://github.com/PRITAKANSHUADAK/IRIS--FLOWER-CLASSIFICATION-)<br>
-3. ⭐ Starred [amriiiita07-ui/The-Great-Broker-War-Zerodha-vs-Groww](https://github.com/amriiiita07-ui/The-Great-Broker-War-Zerodha-vs-Groww)<br>
-4. 🔱 Forked [amriiiita07-ui/github-readme-stats](https://github.com/amriiiita07-ui/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br>
-5. ⭐ Starred [amriiiita07-ui/Tech-Events-june-2026](https://github.com/amriiiita07-ui/Tech-Events-june-2026)<br>
+1. ⭐ Starred [PRITAKANSHUADAK/Ai-Text-SUmmarization-Tool](https://github.com/PRITAKANSHUADAK/Ai-Text-SUmmarization-Tool)<br>
+2. ⭐ Starred [PRITAKANSHUADAK/Vehicle-Tracking-Counting](https://github.com/PRITAKANSHUADAK/Vehicle-Tracking-Counting)<br>
+3. ⭐ Starred [PRITAKANSHUADAK/Email-Scam-Classifier](https://github.com/PRITAKANSHUADAK/Email-Scam-Classifier)<br>
+4. ⭐ Starred [PRITAKANSHUADAK/CREDIT-SCORE-ENGINE](https://github.com/PRITAKANSHUADAK/CREDIT-SCORE-ENGINE)<br>
+5. ⭐ Starred [amriiiita07-ui/Claude-xyz](https://github.com/amriiiita07-ui/Claude-xyz)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
