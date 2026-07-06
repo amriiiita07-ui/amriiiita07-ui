@@ -166,10 +166,6 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [atuldubey1826/KNOW-YOUR-PLAYER](https://github.com/atuldubey1826/KNOW-YOUR-PLAYER)<br>
-2. ⭐ Starred [PRITAKANSHUADAK/Ai-Text-SUmmarization-Tool](https://github.com/PRITAKANSHUADAK/Ai-Text-SUmmarization-Tool)<br>
-3. ⭐ Starred [PRITAKANSHUADAK/Vehicle-Tracking-Counting](https://github.com/PRITAKANSHUADAK/Vehicle-Tracking-Counting)<br>
-4. ⭐ Starred [PRITAKANSHUADAK/Email-Scam-Classifier](https://github.com/PRITAKANSHUADAK/Email-Scam-Classifier)<br>
-5. ⭐ Starred [PRITAKANSHUADAK/CREDIT-SCORE-ENGINE](https://github.com/PRITAKANSHUADAK/CREDIT-SCORE-ENGINE)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
