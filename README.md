@@ -165,7 +165,6 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [atuldubey1826/KNOW-YOUR-PLAYER](https://github.com/atuldubey1826/KNOW-YOUR-PLAYER)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
