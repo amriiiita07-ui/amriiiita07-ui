@@ -41,6 +41,19 @@ As a Computer Science student'29 specializing in Data Science, I'm obsessed with
 
 ---
 
+## Snapshot
+
+<div align="center">
+
+| Research Papers | Active Investigations | GitHub Streak | Based In |
+|:---:|:---:|:---:|:---:|
+| 1 Published | 2 Ongoing | See below | India 🇮🇳 |
+
+</div>
+
+---
+
+
 ## Tech Stack
 
 ### Analytics & Visualisation
