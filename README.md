@@ -181,7 +181,6 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 1. ⭐ Starred [amriiiita07-ui/Cipher-Pulse](https://github.com/amriiiita07-ui/Cipher-Pulse)<br>
 2. ⭐ Starred [amriiiita07-ui/IMF-Data-Analysis](https://github.com/amriiiita07-ui/IMF-Data-Analysis)<br>
 3. ⭐ Starred [suryansh2846code/RESORENA](https://github.com/suryansh2846code/RESORENA)<br>
-4. 🔱 Forked [amriiiita07-ui/github-profile-summary-cards](https://github.com/amriiiita07-ui/github-profile-summary-cards) from [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
