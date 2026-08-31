@@ -180,7 +180,6 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [amriiiita07-ui/Cipher-Pulse](https://github.com/amriiiita07-ui/Cipher-Pulse)<br>
 2. ⭐ Starred [amriiiita07-ui/IMF-Data-Analysis](https://github.com/amriiiita07-ui/IMF-Data-Analysis)<br>
-3. ⭐ Starred [suryansh2846code/RESORENA](https://github.com/suryansh2846code/RESORENA)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
