@@ -120,15 +120,12 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=amriiiita07-ui&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=FC9A64&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff&cache_seconds=86400&date_format=j%20M%5B%20Y%5D" />
+<img src="https://github-readme-stats-9fn1.vercel.app/api?username=amriiiita07-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring=a78bfa&cache_seconds=86400" width="48%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=amriiiita07-ui&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=FC9A64&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff" width="48%" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards-phi-gold.vercel.app/api/cards/stats?username=amriiiita07-ui&theme=tokyonight&cache_seconds=86400" />
-
-<br>
-
-<img src="https://github-profile-summary-cards-phi-gold.vercel.app/api/cards/profile-details?username=amriiiita07-ui&theme=tokyonight&cache_seconds=86400" />
+<img src="https://github-readme-stats-9fn1.vercel.app/api/top-langs/?username=amriiiita07-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&cache_seconds=86400" width="48%" />
 
 </div>
 
