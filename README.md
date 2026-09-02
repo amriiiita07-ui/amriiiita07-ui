@@ -123,17 +123,19 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 <br><br>
 
-<img src="https://github-readme-stats-self-two-61.vercel.app/api?username=amriiiita07-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring=a78bfa&rank_icon=github" width="60%" />
+<img src="https://github-readme-stats-self-two-61.vercel.app/api?username=amriiiita07-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring=a78bfa&rank_icon=github" width="50%" />
 
 <br><br>
 
-<img src="https://github-readme-stats-self-two-61.vercel.app/api/top-langs/?username=amriiiita07-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="60%" />
+<img src="https://github-readme-stats-self-two-61.vercel.app/api/top-langs/?username=amriiiita07-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="50%" />
 
 <br><br>
 
-### Commit Activity
+## Commit Trend
 
-<img src="https://ghchart.rshah.org/a78bfa/amriiiita07-ui" width="80%" alt="Amrita's commit graph" />
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amriiiita07-ui&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=false&hide_border=true&custom_title=Commit%20Trend%20Over%20Time" width="90%" />
 
 </div>
 
