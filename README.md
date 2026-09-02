@@ -128,7 +128,7 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 <br><br>
 
-<img src="https://github-readme-stats-self-two-61.vercel.app/api/top-langs/?username=amriiiita07-ui&layout=compact&theme=tokyonight&hide_border=false&border_color=a78bfa&border_radius=10&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="50%" />
+<img src="https://github-readme-stats-self-two-61.vercel.app/api/top-langs/?username=amriiiita07-ui&layout=compact&theme=tokyonight&hide_border=false&border_color=a78bfa&border_radius=10&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="40%" />
 
 </div>
 
