@@ -115,20 +115,25 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 </table>
 
 ---
-
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=amriiiita07-ui&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=FC9A64&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff" width="70%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=amriiiita07-ui&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=FC9A64&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff" width="60%" />
 
 <br><br>
 
-<img src="https://github-readme-stats-self-two-61.vercel.app/api?username=amriiiita07-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring=a78bfa" width="70%" />
+<img src="https://github-readme-stats-self-two-61.vercel.app/api?username=amriiiita07-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring=a78bfa&rank_icon=github" width="60%" />
 
 <br><br>
 
-<img src="https://github-readme-stats-self-two-61.vercel.app/api/top-langs/?username=amriiiita07-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="70%" />
+<img src="https://github-readme-stats-self-two-61.vercel.app/api/top-langs/?username=amriiiita07-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="60%" />
+
+<br><br>
+
+### Commit Activity
+
+<img src="https://ghchart.rshah.org/a78bfa/amriiiita07-ui" width="80%" alt="Amrita's commit graph" />
 
 </div>
 
