@@ -138,7 +138,7 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amriiiita07-ui&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=false&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph-indol-one.vercel.app/graph?username=amriiiita07-ui&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=false&hide_border=true" width="90%" />
 
 </div>
 
