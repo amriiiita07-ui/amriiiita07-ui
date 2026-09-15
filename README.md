@@ -134,30 +134,11 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 ---
 
-## Commit Trend
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amriiiita07-ui&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=false&hide_border=true" width="90%" />
-
-</div>
-
----
-
 ## GitHub Trophies
 
 <div align="center">
 
 [![trophy](https://raw.githubusercontent.com/amriiiita07-ui/amriiiita07-ui/main/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-
-## Contribution Activity
-
-<div align="center">
-
-[![Amrita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amriiiita07-ui&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
