@@ -138,7 +138,7 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 
 <div align="center">
 
-[![trophy](https://raw.githubusercontent.com/amriiiita07-ui/amriiiita07-ui/main/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy&cache_seconds=0)
+[![trophy](https://raw.githubusercontent.com/amriiiita07-ui/amriiiita07-ui/main/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
