@@ -172,8 +172,6 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 1. ⭐ Starred [amriiiita07-ui/DLA_Experiment_package](https://github.com/amriiiita07-ui/DLA_Experiment_package)<br>
 2. ⭐ Starred [nikhilvishwakarma00/Velune](https://github.com/nikhilvishwakarma00/Velune)<br>
 3. ⭐ Starred [amriiiita07-ui/CRMs-Research-Draft](https://github.com/amriiiita07-ui/CRMs-Research-Draft)<br>
-4. 🔱 Forked [amriiiita07-ui/github-readme-activity-graph](https://github.com/amriiiita07-ui/github-readme-activity-graph) from [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)<br>
-5. ⭐ Starred [amriiiita07-ui/Safe-route-ai](https://github.com/amriiiita07-ui/Safe-route-ai)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
