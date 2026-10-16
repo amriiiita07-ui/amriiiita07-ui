@@ -2,8 +2,8 @@ name: Generate GitHub Trophy
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:          # manual "Run workflow" button
 
 permissions:
   contents: write
@@ -15,20 +15,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Test token
-        env:
-          TOKEN: ${{ secrets.PAT_TOKEN }}
-        run: |
-          if [ -z "$TOKEN" ]; then echo "PAT_TOKEN is EMPTY"; exit 1; fi
-          curl -s -o /dev/null -w "HTTP status: %{http_code}\n" \
-            -H "Authorization: Bearer $TOKEN" https://api.github.com/user
-
       - name: Generate trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: amriiiita07-ui
-          file: trophy.svg
-          token: ${{ secrets.PAT_TOKEN }}
+        run: |
+          curl -fsSL "https://github-profile-trophy.vercel.app/?username=amriiiita07-ui&column=8&margin-w=15" -o trophy.svg
+          grep -q "<svg" trophy.svg
 
       - name: Commit trophy.svg
         run: |
