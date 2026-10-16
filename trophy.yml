@@ -1,9 +1,21 @@
-name: Generate GitHub Trophy
+      - name: Test token
+        env:
+          TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then echo "PAT_TOKEN is EMPTY"; exit 1; fi
+          curl -s -o /dev/null -w "HTTP status: %{http_code}\n" \
+            -H "Authorization: Bearer $TOKEN" https://api.github.com/user
+
+
+       name: Generate GitHub Trophy
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # daily at midnight UTC (5:30 AM IST)
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate-trophy:
@@ -16,14 +28,13 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: amriiiita07-ui
-          output_path: trophy.svg
-          theme: tokyonight
-          token: ${{ secrets.GITHUB_TOKEN }}
+          file: trophy.svg
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Commit trophy.svg
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add trophy.svg
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update trophy.svg"
+          git diff --staged --quiet || git commit -m "Update trophy.svg"
           git push
