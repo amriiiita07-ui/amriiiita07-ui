@@ -1,17 +1,8 @@
-      - name: Test token
-        env:
-          TOKEN: ${{ secrets.PAT_TOKEN }}
-        run: |
-          if [ -z "$TOKEN" ]; then echo "PAT_TOKEN is EMPTY"; exit 1; fi
-          curl -s -o /dev/null -w "HTTP status: %{http_code}\n" \
-            -H "Authorization: Bearer $TOKEN" https://api.github.com/user
-
-
-       name: Generate GitHub Trophy
+name: Generate GitHub Trophy
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily at midnight UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -23,6 +14,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Test token
+        env:
+          TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then echo "PAT_TOKEN is EMPTY"; exit 1; fi
+          curl -s -o /dev/null -w "HTTP status: %{http_code}\n" \
+            -H "Authorization: Bearer $TOKEN" https://api.github.com/user
 
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
