@@ -169,11 +169,11 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [superplanehq/superplane](https://github.com/superplanehq/superplane)<br>
-2. ⭐ Starred [amriiiita07-ui/PeerCRAFT05](https://github.com/amriiiita07-ui/PeerCRAFT05)<br>
-3. ⭐ Starred [GetBindu/Bindu](https://github.com/GetBindu/Bindu)<br>
-4. ⭐ Starred [amriiiita07-ui/DLA_Experiment_package](https://github.com/amriiiita07-ui/DLA_Experiment_package)<br>
-5. ⭐ Starred [nikhilvishwakarma00/Velune](https://github.com/nikhilvishwakarma00/Velune)<br>
+1. 🔱 Forked [amriiiita07-ui/Amazon-Scraper](https://github.com/amriiiita07-ui/Amazon-Scraper) from [Debraj-567/Amazon-Scraper](https://github.com/Debraj-567/Amazon-Scraper)<br>
+2. ⭐ Starred [Debraj-567/india_mines](https://github.com/Debraj-567/india_mines)<br>
+3. ⭐ Starred [Debraj-567/fullstack-course4](https://github.com/Debraj-567/fullstack-course4)<br>
+4. ⭐ Starred [Debraj-567/CodeEnd](https://github.com/Debraj-567/CodeEnd)<br>
+5. ⭐ Starred [Debraj-567/christmasWebsite](https://github.com/Debraj-567/christmasWebsite)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
