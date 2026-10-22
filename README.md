@@ -169,11 +169,11 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [amriiiita07-ui/Amazon-Scraper](https://github.com/amriiiita07-ui/Amazon-Scraper) from [Debraj-567/Amazon-Scraper](https://github.com/Debraj-567/Amazon-Scraper)<br>
-2. ⭐ Starred [Debraj-567/india_mines](https://github.com/Debraj-567/india_mines)<br>
-3. ⭐ Starred [Debraj-567/fullstack-course4](https://github.com/Debraj-567/fullstack-course4)<br>
-4. ⭐ Starred [Debraj-567/CodeEnd](https://github.com/Debraj-567/CodeEnd)<br>
-5. ⭐ Starred [Debraj-567/christmasWebsite](https://github.com/Debraj-567/christmasWebsite)<br>
+1. ⭐ Starred [amriiiita07-ui/Amazon-Scraper](https://github.com/amriiiita07-ui/Amazon-Scraper)<br>
+2. 🔱 Forked [amriiiita07-ui/Amazon-Scraper](https://github.com/amriiiita07-ui/Amazon-Scraper) from [Debraj-567/Amazon-Scraper](https://github.com/Debraj-567/Amazon-Scraper)<br>
+3. ⭐ Starred [Debraj-567/india_mines](https://github.com/Debraj-567/india_mines)<br>
+4. ⭐ Starred [Debraj-567/fullstack-course4](https://github.com/Debraj-567/fullstack-course4)<br>
+5. ⭐ Starred [Debraj-567/CodeEnd](https://github.com/Debraj-567/CodeEnd)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
