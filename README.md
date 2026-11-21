@@ -169,7 +169,6 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [amriiiita07-ui/Amazon-Scraper](https://github.com/amriiiita07-ui/Amazon-Scraper)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
