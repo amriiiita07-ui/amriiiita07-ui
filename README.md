@@ -169,6 +169,7 @@ Investigating the behavioural, psychological, and operational triggers behind ri
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [tyagiaradhya099-arch/DevDoc-AI---2.0](https://github.com/tyagiaradhya099-arch/DevDoc-AI---2.0)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
